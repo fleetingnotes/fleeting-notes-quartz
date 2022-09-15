@@ -5,8 +5,8 @@ title: Home
 
 <article class="index-container">
     <div class="hero">
-        <h1 class="hero-title" >Quick Notes Aren't "[[posts/put-quick-notes-into-obsidian-from-anywhere|Quick]]" Enough in Obsidian</h1>
-        <p style="width: 80%" class="hero-subtitle">Take [[posts/writing-connected-and-personalized-blogs/|linked]] and speedy notes in a browser extension, a mobile app, or a web app and [[posts/sync-fleeting-notes-with-obsidian|sync the notes with Obsidian]].</p>
+        <h1 class="hero-title" >Quickly Capture Ideas Anytime, Anywhere</h1>
+        <p style="width: 100%" class="hero-subtitle">Take [[posts/writing-connected-and-personalized-blogs/|linked]] notes from any source, on any device, and [[posts/sync-fleeting-notes-with-obsidian|sync them with your main notes app]].</p>
         <p class="hero-subtitle">How speedy? Try it yourself:</p>
     </div>
     <div class="row">
@@ -36,8 +36,9 @@ title: Home
             }
             </style>
             <iframe id=flutter-container class="embed-size" width=800 height=500 src="https://my.fleetingnotes.app/?note=d8e2d800-3470-11ed-8f75-019219fce7fb" ></iframe>
-            <div style="display: flex; justify-content: center; margin-bottom: 16px">
-                <a href="/download" class="button premium-btn">Try the webapp instead</a>
+            <div style="display: flex; flex-direction: column; gap: 16px; justify-content: center; align-items: center; margin-bottom: 16px">
+                <a href="https://chrome.google.com/webstore/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc" class="button premium-btn">Download for Chrome</a> 
+                <a href="/download">Get on other platforms</a>
             </div>
         </div>
         <div class="row" style="margin-top: 2em; margin-bottom: 2em;">
@@ -47,7 +48,7 @@ title: Home
         <div class="feature">
             <div class="row">
                 <div class="col-7">
-                    <h2 class="feature-title">Capture Ideas Anytime, Anywhere</h2>
+                    <h2 class="feature-title">An accessible scratchpad</h2>
                     <p class="feature-subtitle">Create and sync your fleeting notes on different platforms:</p>
                     <ul class="feature-list">
                         <li>Highlight and save using the <a href="https://chrome.google.com/webstore/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc">Chrome</a> or <a href="https://addons.mozilla.org/en-CA/firefox/addon/fleeting-notes/">Firefox</a> extension</li>
@@ -70,7 +71,6 @@ title: Home
                     <p class="feature-subtitle">From links to images to files</p>
                     <ul class="feature-list">
                         <li>Cloud hosting for attachments</li>
-                        <li>Take notes side by side</li>
                         <li>Automatically [[posts/best-in-browser-note-taking-and-web-clipping-app-for-obsidian|include URLs]] upon note creation</li>
                         <li>Include [[posts/best-way-to-take-youtube-notes-for-obsidian|YouTube timestamps]] when watching on the web</li>
                     </ul>
@@ -80,8 +80,8 @@ title: Home
         <div class="feature">
             <div class="row feature-row">
                 <div class="col-7">
-                    <h2 class="feature-title">Made for Obsidian MD</h2>
-                    <p class="feature-subtitle">Use the [[posts/sync-fleeting-notes-with-obsidian|Fleeting Notes plugin]] to sync and process notes</p>
+                    <h2 class="feature-title">Enhance your second brain</h2>
+                    <p class="feature-subtitle">Sync your notes with Obsidian using the [[posts/sync-fleeting-notes-with-obsidian|community plugin]]</p>
                     <ul class="feature-list">
                         <li>[[notes/How to copy Obsidian links to Fleeting Notes|Import your wikilinks]] and start connecting your notes</li>
                         <li>Choose your syncing type (delete after sync, two-way)</li>
