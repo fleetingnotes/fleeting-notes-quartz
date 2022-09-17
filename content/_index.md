@@ -6,7 +6,7 @@ title: Home
 <article class="index-container">
     <div class="hero">
         <h1 class="hero-title" >Quick Notes Aren't "[[posts/put-quick-notes-into-obsidian-from-anywhere|Quick]]" Enough in Obsidian</h1>
-        <p style="width: 80%" class="hero-subtitle">Take [[posts/writing-connected-and-personalized-blogs/|linked]] and speedy notes in a browser extension, a mobile app, or a web app and [[posts/sync-fleeting-notes-with-obsidian|sync the notes with Obsidian]].</p>
+        <p style="width: 80%" class="hero-subtitle">Take [[posts/writing-connected-and-personalized-blogs/|linked]] and speedy notes in a browser extension, mobile app, or web app and [[posts/sync-fleeting-notes-with-obsidian|sync the notes with Obsidian]].</p>
         <p class="hero-subtitle">How speedy? Try it yourself:</p>
     </div>
     <div class="row">
@@ -36,8 +36,15 @@ title: Home
             }
             </style>
             <iframe id=flutter-container class="embed-size" width=800 height=500 src="https://my.fleetingnotes.app/?note=d8e2d800-3470-11ed-8f75-019219fce7fb" ></iframe>
-            <div style="display: flex; justify-content: center; margin-bottom: 16px">
-                <a href="/download" class="button premium-btn">Try the webapp instead</a>
+            <div style="display: flex; flex-direction: column; gap: 16px; justify-content: center; align-items: center; margin-bottom: 16px">
+                <a href="https://chrome.google.com/webstore/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc" class="button premium-btn">Get for Chrome</a>
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <span class="also-available">Also available on the
+                    <a href="https://my.fleetingnotes.app" class="">web app</a>, 
+                    <a href="https://apps.apple.com/us/app/fleeting-notes/id1615226800" class="">iOS</a>, and 
+                    <a href="https://play.google.com/store/apps/details?id=com.fleetingnotes" class="">Android</a> 
+                    </span>
+                </div>
             </div>
         </div>
         <div class="row" style="margin-top: 2em; margin-bottom: 2em;">
@@ -121,7 +128,20 @@ title: Home
     <script type="text/javascript">iFrameResize({log: false, checkOrigin: false}, "#testimonialto-carousel-all-fleeting-notes-testimonial-light");</script>
 </div>
 
-<div>
-<h1>Got any questions? We're here to help.</h1>
-<p>Email us at fleetingnotesapp@gmail.com</p>
-<p>Join the <a href="https://discord.gg/xrj6yuGNmx">Discord channel</a> to get in touch with the team and other users.</p> 
+<div style="display: flex; flex-direction: column; gap: 16px; justify-content: center; align-items: center; margin-bottom: 16px">
+    <h1 style="margin-bottom: 16px;" class="hero-title"> Start capturing your valuable ideas </h1>
+    <a href="https://chrome.google.com/webstore/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc" class="button premium-btn">Get for Chrome</a>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <span class="also-available">Also available on the
+        <a href="https://my.fleetingnotes.app" class="">web app</a>, 
+        <a href="https://apps.apple.com/us/app/fleeting-notes/id1615226800" class="">iOS</a>, and 
+        <a href="https://play.google.com/store/apps/details?id=com.fleetingnotes" class="">Android</a> 
+        </span>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: column; margin-top: 32px; justify-content: center; align-items: center;">
+    <h1>Got any questions? We're here to help.</h1>
+    <p class="no-vertical-margin">Email us at fleetingnotesapp@gmail.com</p>
+    <p class="no-vertical-margin">Join the <a href="https://discord.gg/xrj6yuGNmx">Discord channel</a> to get in touch with the team and other users.</p> 
+</div>
