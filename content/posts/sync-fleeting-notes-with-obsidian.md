@@ -2,14 +2,14 @@
 title: How to Sync Fleeting Notes with Obsidian
 description: A step-by-step guide on how to sync Fleeting Notes with Obsidian
 date: 2022-04-12
-lastmod: 2022-08-11
+lastmod: 2022-09-22
 ---
 [[notes/Fleeting Notes|Fleeting Notes]] is a separate network of notes outside of Obsidian. The goal of this plugin sync both these networks of notes into one! Below are step-by-step instructions on how to do this.
 
 ## Installation / Setup
 1. Before you begin, you'll need to create an account in the [Fleeting Notes App](https://fleetingnotes.app/). You can do this by navigating to the settings and registering.
 ![Fleeting Notes authentication form](posts/img/fn-auth-form.png)
-2. Go to Settings > Community Plugin and turn off the "Safe mode". With this turned off, you can install the plugin to perform the sync.
+2. Go to Settings > Community Plugin and turn off the "Restricted mode". With this turned off, you can install the plugin to perform the sync.
 ![Install from Community Plugin](posts/img/fleeting-notes-sync-3.png)
 
 3. Click "Browse" and search for "Fleeting Notes Sync"
