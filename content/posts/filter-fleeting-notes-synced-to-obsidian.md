@@ -6,12 +6,12 @@ lastmod: 2022-09-27
 ---
 When syncing Fleeting Notes to Obsidian, it's often desirable to only sync certain Fleeting Notes. Everyone has their own workflow and we thought it'd be best to be as accommodating as possible. So, we came up with a solution to allow users to filter Fleeting Notes that are synced into Obsidian based on the text in the note. 
 
-To enable this feature, go into the Fleeting Notes settings and find the setting to "Filter Fleeting Notes synced". Add whatever text you want to filter your Fleeting Notes by in the text field. Then perform the [[posts/sync-fleeting-notes-with-obsidian|sync]]!
+To enable this feature, go into the Fleeting Notes settings and find the setting to "Notes filter text". Add whatever text you want to filter your Fleeting Notes by in the text field. Then perform the [[posts/sync-fleeting-notes-with-obsidian|sync]]!
 
 ![Notes filter text setting](posts/img/notes-filter-text.png)
 
 This can be applied to numerous scenarios:
-- Sync different Fleeting Notes to different Obsidian vaults
+- Sync different Fleeting Notes to multiple Obsidian vaults
 - Only sync select Fleeting Notes specified by a tag (e.g. #work)
 - Only sync Fleeting Notes by the source
 
