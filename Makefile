@@ -20,6 +20,7 @@ serve: ## Serve Quartz locally
 	$(GOPATH)/bin/hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo --minify
 
 install: ## use v2.18 commit in hugo-obsidian repo
+	snap install hugo --channel=extended
 	go install github.com/jackyzha0/hugo-obsidian@34bb5aac833f2e54fab1437bfa2ed4b8413751a0
 
 build: 
