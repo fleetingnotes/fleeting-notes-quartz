@@ -1,5 +1,6 @@
 ---
 title: Confused On How To Manage Your Notes? Try This Simple Workflow.
+tags: [ "blog" ]
 description: Oftentimes we find ourselves with folders with too many files or tags with too few members. The fault isn't in the person but in the note-taking system itself.
 date: 2022-04-05
 lastmod: 2022-04-05

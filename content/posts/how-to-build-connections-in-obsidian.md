@@ -1,5 +1,6 @@
 ---
 title: "How to Build Connections in Obsidian (1 MINUTE)"
+tags: [ "blog" ]
 date: 2022-07-25
 lastmod: 2022-07-25
 ---

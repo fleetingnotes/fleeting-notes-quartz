@@ -1,5 +1,6 @@
 ---
 title: "The Best Way to take Youtube Notes for Obsidian"
+tags: [ "blog" ]
 date: 2022-09-02
 lastmod: 2022-09-02
 ---

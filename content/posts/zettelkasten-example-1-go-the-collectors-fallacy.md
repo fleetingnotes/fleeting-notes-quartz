@@ -1,5 +1,6 @@
 ---
 title: "Learn Zettelkasten by Example #1: The Collector's Fallacy"
+tags: [ "blog" ]
 date: 2022-06-03
 lastmod: 2022-06-03
 ---

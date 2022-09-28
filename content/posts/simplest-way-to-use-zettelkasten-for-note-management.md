@@ -1,5 +1,6 @@
 ---
 title: The simplest way to use Zettelkasten for note management
+tags: [ "blog" ]
 description: Everywhere I look, I find complicated Zettelkasten workflows that require a multi-step setup process. On top of the setup, notes must be regularly reviewed and categorized. For some, this workflow may be a godsend, but for most, it's overkill. I'm here to unveil my method of using Zettelkasten. It may be unconventional, so beware.
 date: 2022-05-29
 lastmod: 2022-05-29

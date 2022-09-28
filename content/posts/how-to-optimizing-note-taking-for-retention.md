@@ -1,5 +1,6 @@
 ---
 title: How to optimize note-taking for retention
+tags: [ "blog" ]
 description: It's often more valuable to retain knowledge rather than acquire new knowledge. But thanks to content overload from the internet, we're constantly bombarded with new information from various sources. It's extremely difficult for us to retain knowledge when we're constantly acquiring new knowledge.
 date: 2022-05-06
 lastmod: 2022-05-06

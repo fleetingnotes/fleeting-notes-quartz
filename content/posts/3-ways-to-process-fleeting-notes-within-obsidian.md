@@ -1,5 +1,6 @@
 ---
 title: 3 Ways to Process Fleeting Notes within Obsidian
+tags: [ "blog" ]
 date: 2022-08-10
 lastmod: 2022-08-11
 ---

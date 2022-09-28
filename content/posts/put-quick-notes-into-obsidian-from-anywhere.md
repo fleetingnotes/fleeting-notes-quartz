@@ -1,5 +1,6 @@
 ---
 title: Put quick notes into Obsidian from anywhere
+tags: [ "blog" ]
 date: 2022-06-14
 lastmod: 2022-06-14
 ---

@@ -1,5 +1,6 @@
 ---
 title: "How to take Fleeting 'programming' Notes in Obsidian"
+tags: [ "blog" ]
 date: 2022-08-24
 lastmod: 2022-08-24
 ---

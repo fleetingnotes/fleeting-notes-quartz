@@ -1,5 +1,6 @@
 ---
 title: "End to end encryption in Fleeting Notes"
+tags: [ "blog" ]
 date: 2022-07-20
 lastmod: 2022-07-20
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Imagine Google Keep with Bi-directional Sync to Obsidian"
+tags: [ "blog" ]
 date: 2022-07-04
 lastmod: 2022-07-04
 ---

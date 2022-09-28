@@ -1,5 +1,6 @@
 ---
 title: "Learn Zettelkasten by Example #2: No Categories"
+tags: [ "blog" ]
 date: 2022-06-07
 lastmod: 2022-06-07
 ---

@@ -1,5 +1,6 @@
 ---
 title: Our vision for Fleeting Notes
+tags: [ "blog" ]
 date: 2022-09-16
 lastmod: 2022-09-16
 ---

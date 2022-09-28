@@ -1,5 +1,6 @@
 ---
 title: "Learn Zettelkasten by Example #3: New Note or Not"
+tags: [ "blog" ]
 date: 2022-06-19
 lastmod: 2022-06-19
 ---

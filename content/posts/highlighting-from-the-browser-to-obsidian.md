@@ -1,5 +1,6 @@
 ---
 title: "Highlighting from the browser to Obsidian, an alternative solution"
+tags: [ "blog" ]
 date: 2022-09-16
 lastmod: 2022-09-16
 ---

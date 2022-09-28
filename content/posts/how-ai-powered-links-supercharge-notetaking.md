@@ -1,5 +1,6 @@
 ---
 title: "How AI-Powered Link Suggestions Supercharge Note-taking"
+tags: [ "blog" ]
 date: 2022-06-24
 lastmod: 2022-06-24
 ---

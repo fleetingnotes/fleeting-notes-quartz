@@ -1,5 +1,6 @@
 ---
 title: Zettelkasten shouldn't be complicated, but it is.
+tags: [ "blog" ]
 description: Following the principles of Zettelkasten, there exists a simpler solution to using Zettelkasten.
 date: 2022-04-20
 lastmod: 2022-04-22

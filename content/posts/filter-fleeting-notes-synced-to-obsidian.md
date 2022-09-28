@@ -1,5 +1,6 @@
 ---
 title: "Filter Fleeting Notes synced to Obsidian"
+tags: [ "blog" ]
 date: 2022-09-27
 lastmod: 2022-09-27
 ---

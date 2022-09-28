@@ -1,5 +1,6 @@
 ---
 title: The New Way To Write Connected and Personalized Blogs 
+tags: [ "blog" ]
 description: WordPress is the old way to write blogs. Writing blogs with interconnected notes can make for highly personalized blogs where the user decides what to read.
 date: 2022-04-02
 lastmod: 2022-04-02

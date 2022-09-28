@@ -1,5 +1,6 @@
 ---
 title: How to Sync Fleeting Notes with Obsidian
+tags: [ "blog" ]
 description: A step-by-step guide on how to sync Fleeting Notes with Obsidian
 date: 2022-04-12
 lastmod: 2022-09-22

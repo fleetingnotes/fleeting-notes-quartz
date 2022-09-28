@@ -1,5 +1,6 @@
 ---
 title: "An Update to the Best Browser Extension for Obsidian"
+tags: [ "blog" ]
 date: 2022-08-05
 lastmod: 2022-08-05
 ---

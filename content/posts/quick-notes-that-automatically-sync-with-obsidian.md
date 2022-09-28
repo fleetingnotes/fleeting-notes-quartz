@@ -1,5 +1,6 @@
 ---
 title: "Quick Notes that Automatically Sync with Obsidian"
+tags: [ "blog" ]
 date: 2022-08-03
 lastmod: 2022-08-03
 ---

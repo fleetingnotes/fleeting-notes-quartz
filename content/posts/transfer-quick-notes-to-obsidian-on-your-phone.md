@@ -1,5 +1,6 @@
 ---
 title: Transfer Quick Notes to Obsidian on your Phone! (1 Minute)
+tags: [ "blog" ]
 date: 2022-07-29
 lastmod: 2022-07-29
 ---

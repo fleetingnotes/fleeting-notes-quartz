@@ -1,5 +1,6 @@
 ---
 title: How to Create Useful Links with Zettelkasten
+tags: [ "blog" ]
 description: The linking feature of Zettelkasten is one of its most defining features, yet, it’s the least understood. Linking ideas should be natural for us, but a lifetime of organization with the tree structure has made it difficult to adopt this new form of organization.
 date: 2022-04-29
 lastmod: 2022-04-29

@@ -1,5 +1,6 @@
 ---
 title: Simplest Obsidian Workflow in 1 Minute
+tags: [ "blog" ]
 date: 2022-07-22
 lastmod: 2022-07-22
 ---

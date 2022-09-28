@@ -1,5 +1,6 @@
 ---
 title: "Sharing Connected Notes - Fleeting Notes x Obsidian"
+tags: [ "blog" ]
 date: 2022-06-29
 lastmod: 2022-06-29
 ---
