@@ -1,5 +1,5 @@
 ---
-title: "2022-10-01 Features on the verge of release"
+title: "Features on the verge of release 2022-10-01"
 tags: [ "blog" ]
 date: 2022-10-01
 lastmod: 2022-10-01
