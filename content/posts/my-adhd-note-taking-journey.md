@@ -4,7 +4,7 @@ tags: [ "blog" ]
 date: 2022-09-30
 lastmod: 2022-09-30
 ---
-I can't retain a thought for more than 5 minutes. I always hop into different tasks before finishing them. At the same time, I always want to understand "why" but never get the chance to piece things together thanks to my scattered thoughts. As a [[notes/divergent thinker]], I wanted something to help piece together my random thoughts and make sense of this madness I call my brain.
+I can't retain a thought for more than 5 minutes. I always hop into different tasks before finishing them. At the same time, I always want to understand "why" but never get the chance to piece things together thanks to my scattered thoughts. As a [[notes/divergent thinker|divergent thinker]], I wanted something to help piece together my random thoughts and make sense of this madness I call my brain.
 
 I've tried traditional organizational techniques with folders and tags and never could figure out a good system. It would start off great, but over time, I would create more folders/tags until it became unmanageable. It took far too long to organize a note and I would have a hard time finding notes as well.
 
