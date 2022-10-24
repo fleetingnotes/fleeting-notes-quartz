@@ -5,15 +5,15 @@ lastmod: 2022-10-08
 ---
 ## In Progress (Coming in 1-3 weeks)
 - Fix iOS receive share crashing FN application
-- Google Assistant support for taking notes
+- Home screen widget support
 - Copy, paste pictures into notes
-- Add SEO to Fleeting Notes shared links
+- Auto-complete tags & a different colour for tags
 
 ## Backlogged (Coming in 1-3 Months)
+- Google Assistant support for taking notes
+- Add SEO to Fleeting Notes shared links
 - Safari browser extension
 - Desktop App Support (Mac, Winows, Linux)
-- Home screen widget support
-- Auto-complete tags & a different colour for tags
 - Performance improvements with tens of thousands of links
 - UI Revamp
 
