@@ -1,5 +1,5 @@
 ---
-title: Migrating from Firebase to Supabase. How Fleeting Notes migrated 1000+ users (Stripe, Firestore, Supabase)
+title: How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)
 tags: [ "blog" ]
 date: 2022-10-21
 lastmod: 2022-10-21
@@ -23,7 +23,7 @@ Each critera had its own different set of problems. In the following sections, I
 ## Stripe migration
 ### Backend Stripe Migration
 [Stripe](https://stripe.com/) was the most difficult and finicky aspect of the migration. Within firebase, I used the [stripe firebase extension](https://github.com/stripe/stripe-firebase-extensions/) to manage all the stripe components. It took care of a lot of the implementation work so I had no idea how to approach this when I first started. I bounced between different ideas like bi-directional sync of the subscription tier within firebase, but eventually I settled upon using Stripe as my single source of truth. Although it'd be more involved, I knew it'd make fully cutting Firebase out of Fleeting Notes easier down the road. Here are the migration steps I settled upon:
-1. User signs in and behind the scenes [account migration](http://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/#account-migration) occurs
+1. User signs in and behind the scenes <a href="/posts/migrating-from-firebase-to-supabase/#account-migration" rel="noopener">account migration</a> occurs
 2. After account migration, a [[notes/handle_new_users|supabase database function]] adds a row to the `stripe` table with the supabase id filled in.
 3. Once the row is added, a [database webhook](https://supabase.com/docs/guides/database/webhooks) calls a [[notes/get_stripe_id_from_firebase|firebase function]] that grabs the relevant `stripe_customer_id` from firebase and populates it into supabase.
 4. Once the `stripe_customer_id` is populated into the table, another database webhook is triggered to [[notes/update_subscription_tier|pull the subscrition tier from stripe]]. 
