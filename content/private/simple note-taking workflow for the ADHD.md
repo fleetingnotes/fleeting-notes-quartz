@@ -1,0 +1,3 @@
+- Functional tags
+- Functional notes [[private/improve your note-taking by organizing notes like code|like code]]
+- Notes need to be quick and easy to take

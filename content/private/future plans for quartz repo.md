@@ -1,0 +1,8 @@
+- I want a singular repo that contains documentation, blog posts, weekly reviews, etc. for the company. I don't want any folder structure
+- tags will be functional (they are associated with an action)
+	- On push, github actions will scan for all tags and update the documentation of the respective repos. (e.g. #fleeting-notes-flutter or #firebase-functions). It'll add it in the `docs/` folder. It'll delete everything except the README.md and update it. If a note has a link to it, it'll update the link to a URL pointing to this github.
+	- Or tags will be either #notes  or #posts meaning that they'll be posted to the quartz website.
+	- If a note has no tags, it will be by default private
+- I want to have working previews for this quartz repo. Using obsidian-export. someone did it before and I want it.
+- weekly reviews will be done in this repo, they'll have the date
+- In the far future, we want [[private/fleeting notes as a B2B quick note manager|fleeting notes to manage all business notes]]
