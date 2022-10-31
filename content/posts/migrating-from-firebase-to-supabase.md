@@ -1,5 +1,5 @@
 ---
-title: How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)
+title: How I Migrated 1000+ Users from Firebase to Supabase
 tags: [ "blog" ]
 date: 2022-10-21
 lastmod: 2022-10-21
