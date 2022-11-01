@@ -4,18 +4,19 @@ date: 2022-09-10
 lastmod: 2022-10-08
 ---
 ## In Progress (Coming in 1-3 weeks)
-- Fix iOS receive share crashing FN application
+- Apple Pay on iOS
 - Home screen widget support
 - Copy, paste pictures into notes
-- Auto-complete tags & a different colour for tags
+- Safari browser extension
+- Add SEO to Fleeting Notes shared links
 
 ## Backlogged (Coming in 1-3 Months)
 - Google Assistant support for taking notes
-- Add SEO to Fleeting Notes shared links
-- Safari browser extension
+- Auto-complete tags & a different colour for tags
 - Desktop App Support (Mac, Winows, Linux)
 - Performance improvements with tens of thousands of links
 - UI Revamp
+- Developer extendable functional commands 
 
 ## Planning
 - Upgrade mobile toolbar with markdown editing options in `Aa` button
