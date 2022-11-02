@@ -11,14 +11,15 @@ lastmod: 2022-10-08
 - Add SEO to Fleeting Notes shared links
 
 ## Backlogged (Coming in 1-3 Months)
+- Developer extendable functional commands 
 - Google Assistant support for taking notes
 - Auto-complete tags & a different colour for tags
+- Better two-way local sync
 - Desktop App Support (Mac, Winows, Linux)
-- Performance improvements with tens of thousands of links
-- UI Revamp
-- Developer extendable functional commands 
 
 ## Planning
+- Performance improvements with tens of thousands of links
+- UI Revamp
 - Upgrade mobile toolbar with markdown editing options in `Aa` button
 - Search links and notes by relevance (i.e. faster search)
 
