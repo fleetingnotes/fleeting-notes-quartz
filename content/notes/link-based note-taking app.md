@@ -7,7 +7,6 @@ lastmod: 2022-11-02
 Link-based note-taking apps are centred around the use of [[notes/wikilinks|wikilinks]]. Wikilinks are typically created by surrounding the text with double square brackets.
 
 Some examples include but aren't limited to:
-- [Fleeting Notes](https://fleetingnotes.app/)
 - [Obsidian](https://obsidian.md/)
 - [Logseq](https://logseq.com/)
 - [Roam Research](https://roamresearch.com/)
